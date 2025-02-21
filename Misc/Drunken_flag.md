@@ -41,6 +41,8 @@ It will give us: `6H8WNA+N841BSA622CW56/1CCA623C.1CVJEQPCGM6E2CV59SPEZ2`
 
 We could use [CyberChef](https://gchq.github.io/CyberChef/) to decode the text.
 
+![image](https://github.com/user-attachments/assets/9c29ca38-e685-472c-94b1-b9f8fdbe0d68)
+
 We got the flag.
 
 ```BKSEC{W41T_H0w_D1D_u_Cr4ck3d_TH1s?}```
