@@ -7,7 +7,7 @@ Format flag trong challenge này: BKSEC{Tên quốc gia mà First đi du lịch}
 
 Ví dụ: BKSEC{russia} (viết thường)
 
-File given: [chall_osing.jpeg](/Challenge_files/chall_osint.jpeg)
+File given: [chall_osing.jpeg](/Challenge_files/Hix/chall_osint.jpeg)
 
  ![chall_osint](https://github.com/user-attachments/assets/b2c515eb-bba8-4034-81db-9750e1c5789b)
 
