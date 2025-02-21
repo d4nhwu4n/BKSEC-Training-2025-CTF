@@ -13,7 +13,7 @@ Các thông tin trên được viết liền, không dấu, viết thường.
 
 Ví dụ về flag: BKSEC{daihocbachkhoahanoi_daicoviet_13371337}
 
-File given: [chall.zip](/Challenge_files/langthanghanoi/chall.zip)
+**Attachment:** [chall.zip](/Challenge_files/langthanghanoi/chall.zip)
 # Solution
 We got a zip file from the challenge, let's extract it and see what's inside.
 

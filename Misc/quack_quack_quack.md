@@ -1,7 +1,7 @@
 # Challenge description
 There is a Duck around here... Why there is a Duck around here ?
 
-File given: [note.txt](Challenge_files/quack/note.txt)
+**Attachment:** [note.txt](Challenge_files/quack/note.txt)
 # Solution
 Open the note.txt we got a ```base64``` encoded text. 
 

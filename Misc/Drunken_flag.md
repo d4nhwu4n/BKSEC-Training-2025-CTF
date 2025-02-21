@@ -1,7 +1,7 @@
 # Challenge description 
 Cuối cùng cũng đã bắt được tên tội phạm anhtvie. Sau màn thẩm vấn không mấy thành công, chúng tôi đã phải chuốc rượu hắn để bắt hắn nói ra cờ. Trong cơn say, chúng tôi chỉ lấy được một bức ảnh, và hắn thì cứ luôn miệng nói "WHEREMYFLAG" khiến chúng tôi chẳng biết làm gì nữa. Bạn có thể giúp chúng tôi lấy được cờ không?
 
-File given: [Where_my_flag.jpg](Challenge_files/Drunken_flag/Where_my_flag.jpg)
+**Attachment:** [Where_my_flag.jpg](Challenge_files/Drunken_flag/Where_my_flag.jpg)
 
 # Solution
 We received an image that appears empty upon opening. It is possible that the flag is hidden within the image.
