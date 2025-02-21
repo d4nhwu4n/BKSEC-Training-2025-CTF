@@ -20,13 +20,13 @@ Do a little research about her cat we could found a video of her talking about h
 
 https://www.tiktok.com/@spicyuuu/video/7188457011204443394?lang=en
 
-After watching the video, we get the cat name is Gyoza.  
+After watching the video, we get the cat name is ```Gyoza```.  
 
 https://en.namu.wiki/w/spicyuuu
 
-In this website we get Gyoza's birthday is 15th-December. The tiktok video from the start is posted on 14-01-2023 and in the video Gyoza was 3 years old. So he was born in 2019
+In this website we get Gyoza's birthday is ```15th-December```. The tiktok video from the start is posted on 14-01-2023 and in the video Gyoza was 3 years old. So he was born in ```2019```
 
-The hint said that Gyoza isnt from England, so we could assume he would take spicyuuu nationality - Singapore.
+The hint said that Gyoza isnt from England, so we could assume he would take spicyuuu nationality - ```Singapore```.
 
 On spicyuuu's instagram we could see a link to Gyoza's instagram. Browsing through his instagram we could find multiple picture of him taking picture a brand called ```ciao``` , must be his favourite food.
 
