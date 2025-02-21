@@ -5,7 +5,7 @@ Format flag trong challenge này: BKSEC{Hãng xe_Tên Xe}
 
 Ví dụ: BKSEC{mazda_cx-5} (Viết thường)
 # Solution
-Through the challenge [Hix, Where is my friend???](https://github.com/quan-tap-code/BKSEC-Training-2025-CTF/blob/main/Misc/Hix%2C_Where_is_my_friend%3F%3F%3F.md)) we know that the place First was staying. 
+Through the challenge [Hix, Where is my friend???](Hix,_Where_is_my_friend.md) we know that the place First was staying. 
 
 It is Lits Camping in Sweden.
 
