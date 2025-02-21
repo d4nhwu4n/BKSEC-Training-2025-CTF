@@ -35,11 +35,11 @@ Using Google Maps we could find the location and the road we need to find.
 
 ![image](https://github.com/user-attachments/assets/fa0fbc33-a0c0-4af0-aac6-b1b5096ccffa)
 
-So the in the picture was the ```CharmVit Tower``` and the road was ```Hoang Minh Giam```
+So the in the picture was the `CharmVit Tower` and the road was `Hoang Minh Giam`
 
 ![image](https://github.com/user-attachments/assets/1c91b462-bf00-44aa-9311-086aee845930)
 
-The picture size was 1536x2048 which equivalent to ```3145728``` pixels.
+The picture size was 1536x2048 which equivalent to `3145728` pixels.
 
 We got the flag
 
