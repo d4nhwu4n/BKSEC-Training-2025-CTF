@@ -19,4 +19,10 @@ We got a zip file from the challenge, let's extract it and see what's inside.
 
 We got a image file named 'challenge.jpeg'. 
 
-![image] (~/Work/BKSEC\ Training/LTHN/chall/challenge.jpeg)
+Inpsecting the image give us nothing.
+
+We could try to look at the image metadata too see where the image was taken as well as the size of the image.
+
+```bash
+exiftool challenge.jpeg
+```
