@@ -2,6 +2,8 @@
 
 A repo that contains my write-ups for BKSEC CTF Training 2025.
 
+![image](https://github.com/user-attachments/assets/6f4073f0-7017-4b3b-9019-1c186611e880)
+
 All of the challenges files will be uploaded at [Challenge files](Challenge_files).
 
 There are 7 categories in total:
