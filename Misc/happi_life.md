@@ -1,5 +1,5 @@
 # Challenge description 
 ** No description **
 
-File given: [hihi.txt](BKSEC-Training-2025-CTF/Challenge_files/hihi.txt)
+File given: [hihi.txt](/Challenge_files/hihi.txt)
 # Solution
