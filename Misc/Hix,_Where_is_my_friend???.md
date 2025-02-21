@@ -12,4 +12,10 @@ Ví dụ: BKSEC{russia} (viết thường)
 # Solution
 We got a picture of what looks like a camping center. 
 
-Using Google Images we could find the location 
+Using Google Images we could find the location.
+
+![image](https://github.com/user-attachments/assets/b9c08370-5865-43c3-a40f-23ca5bc323a7)
+
+We could found out that the picture was taken at Lits Camping in Sweden. So we got the flag
+
+```BKSEC{sweden}```
