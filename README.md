@@ -22,4 +22,4 @@ There are 7 categories in total:
 
 All of the write-ups will contain Challenge description as well as. SolutionIf any challenge doesn't have a write-up, it means I haven't solved it yet.
 
-Thank you.
+Thank you for reading my write-ups :33333333
