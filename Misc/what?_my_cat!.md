@@ -13,7 +13,7 @@ Ngoài ra thì, không phải Anh đâu hehe
 
 ![image](https://github.com/user-attachments/assets/7890cbdc-4698-4fd2-8251-1bd6036852a2)
 
-## Solution
+# Solution
 In the picture is spicyuuu, the challenge reffer to a cat so maybe we need to find info about her cat.  
 
 Do a little research about her cat we could found a video of her talking about her cat.
