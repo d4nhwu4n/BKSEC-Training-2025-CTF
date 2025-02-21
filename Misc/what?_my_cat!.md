@@ -32,6 +32,6 @@ On spicyuuu's instagram we could see a link to Gyoza's instagram. Browsing throu
 
 So we got ourself the flag
 
-```BKSEC{gyoza_15/12/2019_singapore_ciao}```
+```BKSEC{gyoza_12/15/2019_singapore_ciao}```
 
 
