@@ -22,6 +22,6 @@ There are 7 categories in total:
 
 - [Fundamental](Fundamental)
 
-All of the write-ups will contain Challenge description as well as. SolutionIf any challenge doesn't have a write-up, it means I haven't solved it yet.
+All of the write-ups will contain challenge description as well as solution. If any challenge doesn't have a write-up, it means I haven't solved it yet.
 
 Thank you for reading my write-ups :33333333
